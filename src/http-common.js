@@ -6,6 +6,6 @@ export default axios.create({
   baseURL: "https://scenic-big-bend-74242.herokuapp.com",
   headers: {
     "Content-type": "application/json",
-    
   },
+  //
 });
